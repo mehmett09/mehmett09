@@ -17,8 +17,9 @@
 
 ## 📂 Projects
 
-🚀 **[To-Do List Project](#)** – A simple app to help users organize tasks and stay productive.  
-🧩 **[Extensions Dashboard](#)** – A clean web-based dashboard to manage and view browser extensions.
+🚀 **[To-Do List Project](https://github.com/mehmett09/To-do-list-project)** – A simple app to help users organize tasks and stay productive.  
+🧩 **[Extensions Dashboard](https://github.com/mehmett09/extenions-dashboard)** – A clean web-based dashboard to manage and view browser extensions.
+🌐 **[Intro Section with Dropdown Navigation](https://github.com/mehmett09/intro-section-dropdown-navigation)** – Responsive intro section with desktop dropdown menus & mobile hamburger navigation built with HTML, CSS & Vanilla JS.
 
 ---
 
